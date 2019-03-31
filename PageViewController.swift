@@ -5,6 +5,9 @@
 //  Created by Andrew Seeley on 2/2/17.
 //  Copyright © 2017 Seemu. All rights reserved.
 //
+//  https://www.seemuapps.com/page-view-controller-tutorial-with-page-dots
+//
+
 import UIKit
 
 class PageViewController: UIPageViewController, UIPageViewControllerDelegate, UIPageViewControllerDataSource {
